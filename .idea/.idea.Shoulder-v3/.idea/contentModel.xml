@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\17606\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\17606\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Shoulder-v3.-2006739295.00" t="ExcludeRecursive" />
+    <e p="C:\Users\17606\unity-projects\Shoulder-v3" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Ardity" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CameraScript.cs" t="Include" />
+            <e p="Serial" t="Include">
+              <e p="SerialRead.cs" t="Include" />
+            </e>
+            <e p="SerialController.cs" t="Include" />
+            <e p="ShoulderScript.cs" t="Include" />
+            <e p="Threads" t="Include">
+              <e p="AbstractSerialThread.cs" t="Include" />
+              <e p="SerialThread.cs" t="Include" />
+              <e p="SerialThreadCustomDelimiter.cs" t="Include" />
+              <e p="SerialThreadLines.cs" t="Include" />
+            </e>
+            <e p="ToolScript.cs" t="Include" />
+            <e p="UdpReceiver.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Shoulder-v3.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
